@@ -17,15 +17,39 @@
 
 <hr>
 
-<h3>Main Stacks :hatching_chick: </h3>
+<h3 align="center">Main Stacks :hatching_chick: </h3>
 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5Img" width="20" height="20"/></a>
-  <strong>HTML</strong>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="cssImg" width="20" height="20"/></a>
-  <strong>CSS</strong>&nbsp;&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascriptImg" width="20" height="20"/></a>
-  <strong>Javascript</strong>&nbsp;&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactImg" width="20" height="20"/></a>
-  <strong>React</strong>&nbsp;&nbsp;            
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="reduxImg" width="20" height="20"/></a>
-  <strong>Redux</strong>&nbsp;&nbsp;
+<p align="center">
+  <strong>HTML</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5Img" width="50" height="50"/></a>
+</p>
+<p align="center">
+  <strong>CSS</strong></span><br>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="cssImg" width="50" height="50"/></a>
+</p>
+<p align="center">
+  <strong>Javascript</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascriptImg" width="50" height="50"/></a>
+</p>
+<p align="center">
+  <strong>React</strong><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactImg" width="50" height="50"/></a>
+</p>
+<p align="center">
+  <strong>Redux</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="reduxImg" width="50" height="50"/></a>
+</p>
+<p align="center">
+  <strong>TypeScript</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>
+</p>
+<p align="center">
+  <strong>Node.JS</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejsImg" width="70" height="70"/></a>
+</p>
+<p align="center">
+  <strong>MySQL</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysqlImg" width="70" height="70"/></a>  
+</p>
+ 
+          
