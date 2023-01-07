@@ -1,4 +1,4 @@
-<summary>### Hi there 👋</summary
+<details>### Hi there 👋</details>
 
 Here are some ideas to get you started:
 
