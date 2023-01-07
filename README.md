@@ -10,6 +10,7 @@
 - 💬 Ask me about ReactJS and Redux, I'm pleased to help you with
   
 - 📫 You can reach me accessing my [Linkedin](https://www.linkedin.com/in/joao-moreira-dev/)
+or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 
 - :notebook_with_decorative_cover: Check [my portfolio](https://joaogmmoreira.github.io/devportfolio/) to see some of my latest projects
   
