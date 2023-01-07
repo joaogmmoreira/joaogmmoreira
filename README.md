@@ -42,7 +42,7 @@
 </span>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>
-  <strong>TypeScript</strong>&nbsp;&nbsp;&nbsp;;
+  <strong>TypeScript</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejsImg" width="50" height="50"/></a>
