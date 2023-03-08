@@ -5,9 +5,9 @@
   
 - :telescope: I’m currently looking for a new job in technology area
   
-- 🌱 I’m currently learning Python and data data scraping
+- 🌱 I’m currently learning Python and data scraping
   
-- 💬 Ask me about ReactJS and Redux, I'm pleased to help you with
+- 💬 Ask me about ReactJS, Redux or Restful API. I'm pleased to help you with
   
 - 📫 You can reach me accessing my [Linkedin](https://www.linkedin.com/in/joao-moreira-dev/)
 or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
