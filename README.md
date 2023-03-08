@@ -5,7 +5,7 @@
   
 - :telescope: I’m currently looking for a new job in technology area
   
-- 🌱 I’m currently learning Typescript and OOP
+- 🌱 I’m currently learning Python and data data scraping
   
 - 💬 Ask me about ReactJS and Redux, I'm pleased to help you with
   
