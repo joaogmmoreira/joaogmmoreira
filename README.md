@@ -12,7 +12,7 @@
 - 📫 You can reach me accessing my [Linkedin](https://www.linkedin.com/in/joao-moreira-dev/)
 or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 
-- :notebook_with_decorative_cover: Check [my portfolio](https://joaogmmoreira.github.io/devportfolio/) to see some of my latest projects
+- :notebook_with_decorative_cover: Check [my portfolio](https://www.joaomoreira.net/) to see some of my latest projects
   
 - ⚡ Fun fact: Although I can watch several TV series at once, I prefer to end one to begin another but my wife doesn't let me do it
 
