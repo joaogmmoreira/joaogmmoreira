@@ -52,3 +52,7 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysqlImg" width="50" height="50"/></a>  
    <strong>MySQL</strong>&nbsp;&nbsp;&nbsp;
 </span>
+<span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mongodb-plain-wordmark.svg" alt="mongoDBImg" width="50" height="50"/></a>  
+   <strong>MongoDB</strong>&nbsp;&nbsp;&nbsp;
+</span>
