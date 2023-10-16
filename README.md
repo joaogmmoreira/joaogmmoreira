@@ -1,11 +1,10 @@
-
 <h1 align="center">Hi, I'm João Moreira :smiley:</h1>
 
 <h3 align="center">I'm passionate about learning and thus I never stopped studying</h3>
   
 - :telescope: I’m currently looking for a new job in technology area
   
-- 🌱 I’m currently learning Python and data scraping
+- 🌱 I’m currently working as a freelance software developer
   
 - 💬 Ask me about ReactJS, Redux or Restful API. I'm pleased to help you with
   
