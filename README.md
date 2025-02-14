@@ -22,7 +22,7 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 <div>
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5Img" width="50" height="50"/>
-    <p><strong>HTML</strong></p>
+    <p align="center"><strong>HTML</strong></p>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="cssImg" width="50" height="50"/>
