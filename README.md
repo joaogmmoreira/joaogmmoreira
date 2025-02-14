@@ -19,6 +19,8 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 
 ## Main Stacks
 
+## Tecnologias
+
 <p align="center">
   <table>
     <tr>
@@ -38,8 +40,6 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
         <br><strong>TypeScript</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50"/>
         <br><strong>Java</strong>
@@ -48,6 +48,8 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
         <br><strong>ReactJS</strong>
       </td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50"/>
         <br><strong>Redux</strong>
@@ -56,8 +58,6 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
         <br><strong>Node.js</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
         <br><strong>Spring</strong>
@@ -77,6 +77,7 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
     </tr>
   </table>
 </p>
+
 
 
 
