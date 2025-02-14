@@ -17,11 +17,7 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 
 <hr>
 
-<h3 align="center">Main Stacks :hatching_chick:</h3>
-<br>
-## Tecnologias
-
-## Tecnologias
+## Main Stacks
 
 <p align="center">
   <table>
