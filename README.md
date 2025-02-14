@@ -6,7 +6,7 @@
   
 - 🌱 I’m currently working as a freelance software developer
   
-- 💬 Ask me about ReactJS, Redux or Restful API. I'm pleased to help you with
+- 💬 Ask me about ReactJS, React Native, NodeJs or Java. I'm pleased to help you with
   
 - 📫 You can reach me accessing my [Linkedin](https://www.linkedin.com/in/joao-moreira-dev/)
 or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
@@ -49,10 +49,14 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
   <strong>Node.JS</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejsImg" width="50" height="50"/></a>
+  <strong>Node.JS</strong>&nbsp;&nbsp;&nbsp;
+</span>
+<span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysqlImg" width="50" height="50"/></a>  
    <strong>MySQL</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongoDBImg" width="50" height="50"/></a>  
-   <strong>MongoDB</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="mongoDBImg" width="50" height="50"/></a>  
+   <strong>Java</strong>&nbsp;&nbsp;&nbsp;
 </span>
