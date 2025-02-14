@@ -17,7 +17,7 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 
 <hr>
 
-## Main Stacks
+<h1 align="center">Main Stacks</h1>
   <table align="center">
     <tr>
       <td align="center">
