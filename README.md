@@ -42,11 +42,11 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 </span>
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactImg" width="50" height="50"/></a>
-  <strong>React</strong>&nbsp;&nbsp;&nbsp;
+  <strong>ReactJS</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactImg" width="50" height="50"/></a>
-  <strong>React</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" alt="reactImg" width="50" height="50"/></a>
+  <strong>ReactNative</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="reduxImg" width="50" height="50"/></a>
