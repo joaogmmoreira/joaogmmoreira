@@ -19,6 +19,7 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 
 <h3 align="center">Main Stacks :hatching_chick:</h3>
 <br>
+<div align="center">
 
 <span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5Img" width="50" height="50"/></a>
@@ -68,3 +69,4 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodbImg" width="50" height="50"/></a>
   <strong>MongoDB</strong>&nbsp;&nbsp;&nbsp;
 </span>
+</div>
