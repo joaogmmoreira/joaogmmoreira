@@ -33,6 +33,18 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
   <strong>Javascript</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>
+  <strong>TypeScript</strong>&nbsp;&nbsp;&nbsp;
+</span>
+<span>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="javaImg" width="50" height="50"/></a>  
+   <strong>Java</strong>&nbsp;&nbsp;&nbsp;
+</span>
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactImg" width="50" height="50"/></a>
+  <strong>React</strong>&nbsp;&nbsp;&nbsp;
+</span>
+<span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactImg" width="50" height="50"/></a>
   <strong>React</strong>&nbsp;&nbsp;&nbsp;
 </span>
@@ -41,22 +53,18 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
   <strong>Redux</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/></a>
-  <strong>TypeScript</strong>&nbsp;&nbsp;&nbsp;
-</span>
-<span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejsImg" width="50" height="50"/></a>
   <strong>Node.JS</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejsImg" width="50" height="50"/></a>
-  <strong>Node.JS</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pring/spring-original-wordmark.svg" alt="springImg" width="50" height="50"/></a>
+  <strong>Spring</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysqlImg" width="50" height="50"/></a>  
    <strong>MySQL</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="mongoDBImg" width="50" height="50"/></a>  
-   <strong>Java</strong>&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original-wordmark.svg" alt="postgresImg" width="50" height="50"/></a>  
+   <strong>Postgres</strong>&nbsp;&nbsp;&nbsp;
 </span>
