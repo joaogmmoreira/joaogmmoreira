@@ -19,7 +19,7 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 
 <h3 align="center">Main Stacks :hatching_chick:</h3>
 <br>
-<div style="display: flex; align-items: center;>
+<div style="display: flex; align-items: center; justify-content: center>
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5Img" width="50" height="50"/></a>
     <strong>HTML</strong>&nbsp;&nbsp;&nbsp;
