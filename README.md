@@ -19,55 +19,64 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 
 <h3 align="center">Main Stacks :hatching_chick:</h3>
 <br>
-<div display: flex; flex-direction: row>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5Img" width="50" height="50"/>
-    <p></p><strong>HTML</strong>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="cssImg" width="50" height="50"/>
-    <strong>CSS</strong>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascriptImg" width="50" height="50"/>
-    <strong>JavaScript</strong>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-    <strong>TypeScript</strong>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="javaImg" width="50" height="50"/>
-    <strong>Java</strong>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactImg" width="50" height="50"/>
-    <strong>ReactJS</strong>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="reduxImg" width="50" height="50"/>
-    <strong>Redux</strong>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejsImg" width="50" height="50"/>
-    <strong>Node.js</strong>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springImg" width="50" height="50"/>
-    <strong>Spring</strong>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysqlImg" width="50" height="50"/>
-    <strong>MySQL</strong>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresImg" width="50" height="50"/>
-    <strong>PostgreSQL</strong>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodbImg" width="50" height="50"/>
-    <strong>MongoDB</strong>
-  </div>
-</div>
+## Tecnologias
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+      <br><strong>HTML</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
+      <br><strong>CSS</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50"/>
+      <br><strong>TypeScript</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50" height="50"/>
+      <br><strong>Java</strong>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+      <br><strong>ReactJS</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50"/>
+      <br><strong>Redux</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
+      <br><strong>Node.js</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="50" height="50"/>
+      <br><strong>Spring</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+      <br><strong>MySQL</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+      <br><strong>PostgreSQL</strong>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
+      <br><strong>MongoDB</strong>
+    </td>
+  </tr>
+</table>
+
 
 
