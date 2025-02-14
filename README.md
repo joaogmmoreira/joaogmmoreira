@@ -65,6 +65,6 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
    <strong>MySQL</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgres/postgres-original-wordmark.svg" alt="postgresImg" width="50" height="50"/></a>  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresImg" width="50" height="50"/></a>  
    <strong>Postgres</strong>&nbsp;&nbsp;&nbsp;
 </span>
