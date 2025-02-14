@@ -57,7 +57,7 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
   <strong>Node.JS</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pring/spring-original-wordmark.svg" alt="springImg" width="50" height="50"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springImg" width="50" height="50"/></a>
   <strong>Spring</strong>&nbsp;&nbsp;&nbsp;
 </span>
 <span>
