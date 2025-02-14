@@ -18,11 +18,7 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
 <hr>
 
 ## Main Stacks
-
-## Tecnologias
-
-<p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
@@ -76,7 +72,6 @@ or if you prefer get in touch with me by email: jgmoreira1809@gmail.com
       </td>
     </tr>
   </table>
-</p>
 
 
 
